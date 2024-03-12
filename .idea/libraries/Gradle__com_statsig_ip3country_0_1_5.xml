@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.statsig:ip3country:0.1.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.statsig" artifactId="ip3country" version="0.1.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.statsig/ip3country/0.1.5/d16dbeff817293725523662bc4da4e6938b7cc6d/ip3country-0.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
